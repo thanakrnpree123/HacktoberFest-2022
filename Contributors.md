@@ -117,5 +117,9 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: Name: [Thanakarn P](https://github.com/thanakrnpree123) <br/>
+Place: THA
+About: Student <br/>
+
 
 
